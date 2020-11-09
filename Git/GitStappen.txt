@@ -1,0 +1,17 @@
+Lokaal stappen 
+
+1ste git init -> .git 
+2de git status 
+ 2.1 - niet vergeten maak een .gitignore 
+3de git add (naam van de bestand) 
+4de git commit -m "this aanhalingstekens een boodschap"
+5de git log 
+6de git push 
+ deze commando stuur al jouw informatie naar jouw bitbucket 
+
+remote stappen 
+
+git remote add origin (url van de reporistory)  //origin is de alias
+
+git remote -v 
+git remote rm origin verwijder je een alias 

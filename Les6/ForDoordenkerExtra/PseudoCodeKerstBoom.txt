@@ -1,0 +1,23 @@
+﻿Pseudocode kerstboom 
+
+De gebruiker geeft op uit hoeveel lijnen de kerstboom bestaat.
+We gaan er van uit dat hij 3 intypt 
+We doen het volgende drie keer; de eerste keer is i = 3, 
+de tweede keer is i = 2 en de derde keer is i = 1;
+	print 3 - i keer een spatie 
+	print 3 - (3 - i) keer een ster
+
+Algemener: we stoppen het ingetypte getal in een variable met de naam 
+aantal:
+We doen het volgende drie keer, de eerste keer is i = aantal,
+de tweede keer is i = aantal -1en de derde keer is aaantal -2;
+	print aantal - i keer een spatie 
+	print aantal - (( aantal - i ) + (i - 1)) keer een ster 
+	
+	1
+	3
+	5
+	7
+	9
+	11
+

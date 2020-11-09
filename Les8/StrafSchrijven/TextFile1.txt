@@ -1,0 +1,16 @@
+﻿functionele anlyse 
+schrijf 99keer 
+1ste regel. ik zal zwijgen in de klas 
+2de 
+3de 
+20ste 
+opletten dat er de of ste bij de juiste nummer zit 
+
+
+enz 
+nog een keer de straf schrijven ja of nee 
+als ja 
+als nee stoppen 
+
+maak een methode 
+roep de methode op in main

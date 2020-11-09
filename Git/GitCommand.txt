@@ -1,0 +1,66 @@
+Git commando
+
+git -- version = met deze commando kan jij zien welke versie jij hebt en als het geinstalleerd is op jouw computer 
+
+git init = creet een bewaarplaats voor alles dat gebeurt in die specifiek map maakt jouw map klaar voor versie beheer te beginnen 
+
+ls -force = toont de hidden bestanden op jouw computer 
+
+git config --global user.name = kunt u zien welke username u heeft gebruikt voor jouw git 
+
+git config --global user.email = kunt u zien welke email u heeft gebruikt voor jouw git 
+
+git status = laat alle mappen zien die in uw working directory en staan in rood 
+            -rood betekent ze staan niet voor version beheer of staging area 
+	    -groen wilt zeggen dat staat in mijn staging area zit en niet in mijn gistory 
+
+git status -u = 
+
+git add = steekt een specifike bestand in de staging area bv git add MijnProgramma.txt 
+ 
+git commit -m "text"ga jij jouw bestand die in de staging area zit in jouw gistory steken 
+ in text geef jij een kleine boodschap en met uur en datum
+ -m staat voor message 
+
+git log = zie je de geschiedenis van jouw 
+
+git diff = vergelijkt twee versie, toont
+ diff voor difference 
+
+
+git remote add origin https://benitonwuje@bitbucket.org/benitonwuje/git-leren.git
+
+git remote add = crear jij een alias voor jouw domain naam 
+
+met git push creat jij een alias voor git remote add origin https://benitonwuje@bitbucket.org/benitonwuje/git-leren.git zodat jij niet alles moet schrijven 
+
+git remote -v zie jij alle orgin 
+
+git push - u ugaat recrusive werken met master gaat u de meeste recenten pushen 
+
+
+
+belangrijkste commando's 
+//dit is lokaal 
+git innit 1ste stap een map wordt gecreërd 
+git add 
+git commit 
+git log 
+git diff
+ 
+
+
+Terminal Commands 
+_________________
+
+
+
+Git werkt in 3 plaatsen, 
+ 1 working direcotry, 
+ 2 staging area 
+ 3 repository of gistory 
+
+ls = laat u zien alle bestanden en mappen in reprositry that u bent 
+cd = change directory kan jij je zelf verplaats in terminal bv cd close ga jij naar een map met cd ../ can terug uit bv die map close gaan 
+
+mkdir = maakt je een map
